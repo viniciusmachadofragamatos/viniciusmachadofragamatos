@@ -18,6 +18,5 @@
 
 ![viniciusmachadofragamatos's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmachadofragamatos&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmachadofragamatos&layout=donut&theme=transparent)](https://github.com/viniciusmachadofragamatos/github-readme-stats)
+![Snake animation](https://raw.githubusercontent.com/viniciusmachadofragamatos/viniciusmachadofragamatos/output/github-contribution-grid-snake-dark.svg)
 
-
-## Como me achar?
