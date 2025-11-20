@@ -1,7 +1,7 @@
 # Olá, Eu sou Vinicius Machado
 
 #### - 🌱 Desenvolvedor FullStack em formação...
-#### - 👯 Minhas referências são meus irmãos [Dev-Paulo-Matos](https://github.com/Dev-Paulo-Matos) e [CaioHenriqueMachado](https://github.com/CaioHenriqueMachado)
+#### - 🔑 Minhas referências são meus irmãos [Dev-Paulo-Matos](https://github.com/Dev-Paulo-Matos) e [CaioHenriqueMachado](https://github.com/CaioHenriqueMachado)
 #### - ⚡ Tentando ser o melhor a cada dia...
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=viniciusmachadofragamatos&show_icons=true&theme=tokyonight&cache_seconds=1)
