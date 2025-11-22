@@ -5,7 +5,7 @@
 #### - ⚡ Tentando ser o melhor a cada dia...
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=viniciusmachadofragamatos&show_icons=true&theme=tokyonight&cache_seconds=1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmachadofragamatos&layout=donut&theme=transparent)](https://github.com/viniciusmachadofragamatos/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmachadofragamatos&layout=compact&theme=tokyonight)
 
 ![Snake animation](https://raw.githubusercontent.com/viniciusmachadofragamatos/viniciusmachadofragamatos/output/github-contribution-grid-snake-dark.svg)
 
