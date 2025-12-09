@@ -4,8 +4,8 @@
 #### - 🔑 Minhas referências são meus irmãos [Dev-Paulo-Matos](https://github.com/Dev-Paulo-Matos) e [CaioHenriqueMachado](https://github.com/CaioHenriqueMachado)
 #### - ⚡ Tentando ser melhor a cada dia...
 
-![Stats](https://github-readme-stats.vercel.app/api?username=viniciusmachadofragamatos&show_icons=true&theme=tokyonight&cache_seconds=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmachadofragamatos&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=viniciusmachadofragamatos&layout=compact&theme=tokyonight)
+![GitHub Stars](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=viniciusmachadofragamatos&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
 ![Snake animation](https://raw.githubusercontent.com/viniciusmachadofragamatos/viniciusmachadofragamatos/output/github-contribution-grid-snake-dark.svg)
 
@@ -18,9 +18,6 @@
   <img align="center" alt="dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div><br>
-
-
-![Vinicius's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciusmachadofragamatos&theme=tokyo-night)
 
 ## Minhas Redes Sociais
 <div style="display: inline_block"><br>
