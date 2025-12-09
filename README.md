@@ -20,7 +20,8 @@
 
 ### 🐍 Minhas contribuições animadas
 
-![Snake animation](https://raw.githubusercontent.com/viniciusmachadofragamatos/viniciusmachadofragamatos/output/snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/viniciusmachadofragamatos/viniciusmachadofragamatos/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ## Minhas Redes Sociais
