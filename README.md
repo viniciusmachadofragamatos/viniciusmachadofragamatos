@@ -27,9 +27,6 @@
 ## Minhas Redes Sociais
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/vinicius-machado-ba1389371/" ><img src="https://img.shields.io/badge/Linkedin-054F77"></a>
-  <a href="https://www.instagram.com/v1nicius_machad0/" ><img src="https://img.shields.io/badge/Instagram-8134AF"></a>
-  
-![Profile Views](https://komarev.com/ghpvc/?username=viniciusmachadofragamatos&label=Visitas&color=blueviolet&style=flat)
-  
+  <a href="https://www.instagram.com/v1nicius_machad0/" ><img src="https://img.shields.io/badge/Instagram-8134AF"></a>  
 </div>
 
