@@ -24,7 +24,8 @@
 
 ## Minhas Redes Sociais
 <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/vinicius-machado-fraga-matos-7919063a0/"></a>
-  <a href="https://www.instagram.com/v1nicius_machad0/" ><img src="https://img.shields.io/badge/Instagram-8134AF"></a>  
-</div>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/vinicius-machado-fraga-matos-7919063a0)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Perfil-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/v1nicius_machad0/)
 
