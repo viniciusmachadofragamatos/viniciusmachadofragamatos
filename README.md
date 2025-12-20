@@ -1,6 +1,6 @@
 # Olá, Eu sou Vinicius Machado
 
-#### - 🌱 Cursando Desenvolvimento De Sistemas
+#### - 🌱 Atualmente estudando linguagem dart e no framework flutter e praticando no LeetCode
 #### - 🔑 Minhas referências são meus irmãos [Dev-Paulo-Matos](https://github.com/Dev-Paulo-Matos) e [CaioHenriqueMachado](https://github.com/CaioHenriqueMachado)
 #### - ⚡ Tentando ser melhor a cada dia...
 
@@ -21,8 +21,6 @@
 ## Minhas contribuições animadas
 
 ![Snake animation](https://raw.githubusercontent.com/viniciusmachadofragamatos/viniciusmachadofragamatos/output/github-contribution-grid-snake-dark.svg)
-
-
 
 ## Minhas Redes Sociais
 <div style="display: inline_block"><br>
