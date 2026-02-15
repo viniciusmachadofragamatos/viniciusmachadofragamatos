@@ -1,13 +1,13 @@
 # Olá, Eu sou Vinicius Machado
 
-#### - 🌱 Atualmente estudando linguagem dart e no framework flutter e praticando no LeetCode
+#### - ⚡ Desenvolvo aplicações web e mobile
+#### - 🌱 Atualmente estudando Kotlin, desenvolvendo aplicativos mobile com JetPackCompose e Cursando redes em CiscoNetAcad
 #### - 🔑 Minhas referências são meus irmãos [Dev-Paulo-Matos](https://github.com/Dev-Paulo-Matos) e [CaioHenriqueMachado](https://github.com/CaioHenriqueMachado)
-#### - ⚡ Tentando ser melhor a cada dia...
 
 ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=viniciusmachadofragamatos&layout=compact&theme=tokyonight)
 ![GitHub Stars](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=viniciusmachadofragamatos&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
-## Tecnologias e Linguagens:
+## Tecnologias e Linguagens que Atuo:
 <div style="display: inline_block"><br>
   <img align="center" alt="html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -15,6 +15,8 @@
   <img align="center" alt="flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />        
 </div><br>
 
 
