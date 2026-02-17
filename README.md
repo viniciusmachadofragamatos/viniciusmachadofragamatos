@@ -1,7 +1,6 @@
 # Olá, Eu sou Vinicius Machado
 
-#### - ⚡ Desenvolvo aplicações web e mobile
-#### - 🌱 Atualmente estudando Kotlin, desenvolvendo aplicativos mobile com JetPack Compose e Cursando redes em Cisco NetAcad
+#### - 🌱 Atualmente estudando Kotlin, desenvolvendo aplicativos mobile com JetPack Compose e aprofundando em tudo que já sei
 #### - 🔑 Minhas referências são meus irmãos [Dev-Paulo-Matos](https://github.com/Dev-Paulo-Matos) e [CaioHenriqueMachado](https://github.com/CaioHenriqueMachado)
 
 ---
